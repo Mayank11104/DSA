@@ -23,4 +23,4 @@ I'm uploading the code I write while learning and practicing DSA.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dsa.git
+   git clone https://github.com/Mayank11104/DSA.git
