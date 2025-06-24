@@ -1,10 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main()
+void Invertedpyramid(int n)
 {
-    int n;
-    cin >> n;
     for (int i = 0; i < n; i++)
     {
         for (int j = 0; j < i; j++)
@@ -17,5 +15,12 @@ int main()
         }
         cout << endl;
     }
+}
+int main()
+{
+    int n;
+    cout << "Enter no of rows :";
+    cin >> n;
+    Invertedpyramid(n);
     return 0;
 }
