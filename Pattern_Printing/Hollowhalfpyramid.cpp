@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-void Hollowpyramid(int n)
+void Hollowhalfpyramid(int n)
 {
     for (int i = 0; i < n; i++)
     {
@@ -24,6 +24,6 @@ int main()
     int n;
     cout << "Enter no of rows :";
     cin >> n;
-    Hollowpyramid(n);
+    Hollowhalfpyramid(n);
     return 0;
 }
