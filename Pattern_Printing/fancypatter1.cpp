@@ -28,7 +28,7 @@ void fancypattern1(int n)
 int main()
 {
     int n;
-    cout<<"enter n : ";
+    cout<<"Enter n : ";
     cin >> n;
     fancypattern1(n);
 

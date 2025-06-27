@@ -30,7 +30,7 @@ void Hollowsquare(int a)
 int main()
 {
     int a;
-    cout << "enter side:";
+    cout << "Enter side:";
     cin >> a;
     Hollowsquare(a);
 

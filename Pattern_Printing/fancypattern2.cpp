@@ -50,7 +50,7 @@ void fancypattern2(int n)
 int main()
 {
     int n;
-    cout<<"enter n : ";
+    cout<<"Enter n : ";
     cin >> n;
 
     fancypattern2(n);

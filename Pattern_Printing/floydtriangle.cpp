@@ -17,7 +17,7 @@ void floydtriangle(int n)
 int main()
 {
     int n;
-    cout << "enter n : ";
+    cout << "Enter n : ";
     cin >> n;
     floydtriangle(n);
     return 0;

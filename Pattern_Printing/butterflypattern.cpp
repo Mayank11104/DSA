@@ -41,7 +41,7 @@ int main()
 {
 
     int n;
-    cout<<"enter n : ";
+    cout<<"Enter n : ";
     cin >> n;
     butterflypattern(n);
 
